@@ -1,1 +1,3 @@
 welcome to neeltech junction
+
+i like to java python aws devops
